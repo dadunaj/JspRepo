@@ -1,0 +1,7 @@
+/build/
+/bin/
+.classapath
+.project
+/target/
+.settings
+.jsdtscope
